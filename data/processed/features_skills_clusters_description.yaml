@@ -1,0 +1,119 @@
+skills_group_0:
+- PHP
+- SQL
+- MariaDB
+- MySQL
+- SQLite
+- Drupal
+- Laravel
+- Symfony
+- Vue.js
+skills_group_1:
+- Scala
+- Cassandra
+- Couchbase
+- Apache Spark
+- Hadoop
+skills_group_10:
+- Python
+- Django
+- FastAPI
+- Flask
+skills_group_11:
+- Assembly
+- C
+- C++
+- Qt
+skills_group_12:
+- Julia
+- Matlab
+- R
+- NumPy
+- Pandas
+skills_group_13:
+- Svelte
+- Deno
+skills_group_14:
+- Ruby
+- Ruby on Rails
+skills_group_15:
+- APL
+- COBOL
+- Crystal
+- Delphi
+- IBM DB2
+skills_group_16:
+- HTML/CSS
+- JavaScript
+- jQuery
+skills_group_17:
+- Keras
+- TensorFlow
+- Torch/PyTorch
+skills_group_18:
+- Bash/Shell
+- Perl
+skills_group_19:
+- Objective-C
+- Swift
+skills_group_2:
+- DynamoDB
+- Ansible
+- Chef
+- Flow
+- Pulumi
+- Puppet
+- Terraform
+skills_group_20:
+- Elixir
+- Erlang
+skills_group_21:
+- TypeScript
+- Angular
+- Angular.js
+- Cordova
+skills_group_3:
+- Node.js
+- MongoDB
+- Express
+- Gatsby
+- React.js
+- React Native
+- Yarn
+skills_group_4:
+- Go
+- Elasticsearch
+- PostgreSQL
+- Redis
+- Docker
+- Git
+- Kubernetes
+skills_group_5:
+- C#
+- F#
+- PowerShell
+- VBA
+- Microsoft SQL Server
+- ASP.NET
+- 'ASP.NET Core '
+- .NET Core / .NET 5
+- .NET Framework
+- Xamarin
+skills_group_6:
+- Dart
+- Firebase
+- Flutter
+skills_group_7:
+- Groovy
+- Java
+- Kotlin
+- Oracle
+- Spring
+skills_group_8:
+- Clojure
+- Haskell
+- LISP
+- Rust
+skills_group_9:
+- Unity 3D
+- Unreal Engine
